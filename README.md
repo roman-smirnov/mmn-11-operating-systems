@@ -1,6 +1,5 @@
-# POSIX nammed semaphores example
-Roman Smirnov   
-312914443   
+# POSIX named semaphores example
+Roman Smirnov      
 14/11/2017
 
 ## Q1
